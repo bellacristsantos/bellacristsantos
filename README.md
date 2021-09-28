@@ -1,8 +1,6 @@
-### Hi, I'm Isabella 👋
+## Hi, I'm Isabella 👋
 
-
-### I'm a Web Developer constantly consuming creative things.
-##
+# I'm a Web Developer constantly consuming creative things.  
 
 - 🔭 I’m a Software Engineering student
 - 🌱 I’m currently learning how to design a feminist chatbot
