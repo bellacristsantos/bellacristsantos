@@ -2,8 +2,8 @@
 
 # I'm a Web Developer constantly consuming creative things.  
 
-- 🔭 I’m a Software Engineering student
-- 🌱 I’m currently learning how to design a feminist chatbot
+- 🔭 I’m a Information Systems student
+- 🌱 I’m currently enrolled in a full-stack web development course
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about how UX fits in our daily life
 - 😄 Pronouns: She/Her
