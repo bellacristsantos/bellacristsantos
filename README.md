@@ -42,4 +42,5 @@
 
 </details>
 
-[portfolio]: https://arsentieva.github.io/profile/](https://isabella-santos-portfolio.netlify.app)https://isabella-santos-portfolio.netlify.app
+[portfolio]: https://isabella-santos-portfolio.netlify.app
+
