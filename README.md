@@ -2,6 +2,8 @@
 
 # I'm a Full Stack Developer constantly consuming creative things.  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellacristsantos&label=Profile%20views&color=129e00&style=plastic" alt="bellacristsantos" /> </p>
+
 ### Welcome to my digital playground! 
 
 This is where I showcase all the cool stuff I'm currently cooking up. Think of it as my tech canvas where I paint the picture of my journey as a Full Stack Developer.
@@ -24,7 +26,7 @@ So, if you're curious to see what I'm working on or want to chat about tech, fee
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/isabella-ct-santos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isabella-ct-santos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bellacristsantos" height="30" width="40" /></a>
 
 
 <div style="display: inline_block"><br>
@@ -38,20 +40,26 @@ So, if you're curious to see what I'm working on or want to chat about tech, fee
   <img align="center" alt="Isabella-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Isabella-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Isabella-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Isabella-Git" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="center" alt="Isabella-GitHub" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="center" alt="Isabella-Terminal" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 </div>
 <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bellacristsantos&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+  <p><img align="left" alt="Isabella GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bellacristsantos&show_icons=true&hide_border=true" /></p>
+
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Isabella's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellacristsantos" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellacristsantos&show_icons=true&locale=en&layout=compact" alt="bellacristsantos" /></p>
+
 
 </details>
 
