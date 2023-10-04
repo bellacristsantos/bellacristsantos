@@ -1,9 +1,22 @@
 ## Hi, I'm Isabella 👋
 
-# I'm a Web Developer constantly consuming creative things.  
+# I'm a Full Stack Developer constantly consuming creative things.  
+
+### Welcome to my digital playground! 
+
+This is where I showcase all the cool stuff I'm currently cooking up. Think of it as my tech canvas where I paint the picture of my journey as a Full Stack Developer.
+
+I'm all about that full-stack life and infusing a dose of creativity into software development. HTML, CSS, JavaScript, ReactJS, Node.js, MySQL, MongoDB, TypeScript, Git – you name it, I'm all over it. 
+
+But it's not just about the tech lingo; it's about my hunger to learn and uncover creative solutions.
+
+By the way, I'm not your typical developer. I bring an architecture and environmental management background to the tech table, giving me a unique perspective on problem-solving and innovation.
+
+So, if you're curious to see what I'm working on or want to chat about tech, feel free to explore my projects and drop me a line. Let's connect, and together we can make some digital magic happen! 🪄🌍🚀 <br />
+
 
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently enrolled in a full-stack web development course
+- 🌱 I’m currently enrolled in a backend development course
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about how UX fits in our daily life
 - 😄 Pronouns: She/Her
