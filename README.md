@@ -2,7 +2,11 @@
 
 # I'm a Full Stack Developer constantly consuming creative things.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellacristsantos&label=Profile%20views&color=129e00&style=plastic" alt="bellacristsantos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bellacristsantos&label=Profile%20views&color=129e00&style=plastic" alt="bellacristsantos" /> </p>
+
+
+![Isabella-banner](https://github.com/bellacristsantos/bellacristsantos/blob/main/desk.gif)
+
 
 ### Welcome to my digital playground! 
 
